@@ -7,7 +7,7 @@ Un site efficace doit réussir sur 3 aspects :
 3. Enfin, le site doit savoir faire revenir ses visiteurs et fédérer une communauté de visiteurs réguliers. **Un site qui ne fidélise pas ses visiteurs n’est pas efficace !**
 
 ## Faire un point sur le SEO
-Le but ici n’est pas de repenser tout le SEO du site mais de vérifier que les bonnes pratiques ont bien été appliquées. Pour cela, pas besoin d’être un expert du domaine ! De nombreux outils peuvent vous aider. Le meilleur au global étant très certainement [Woorank](https://www.woorank.com/fr/) qui procure un rapport à la fois détaillé et synthétique en vous montrant les différent leviers d’actions ou son équivalent gratuit [Google Insight](https://www.peinture-hamelin-decor.fr)
+Le but ici n’est pas de repenser tout le SEO du site mais de vérifier que les bonnes pratiques ont bien été appliquées. Pour cela, pas besoin d’être un expert du domaine ! De nombreux outils peuvent vous aider. Le meilleur au global étant très certainement [Woorank](https://www.woorank.com/fr/) qui procure un rapport à la fois détaillé et synthétique en vous montrant les différent leviers d’actions ou son équivalent gratuit [Google Insight](https://www.peinture-hamelin-decor.fr).
 
 ## Parcourir le site comme un client
 Pour bien analyser un site Web il va falloir se mettre à la place du visiteur et naviguer un peu sur le site.
